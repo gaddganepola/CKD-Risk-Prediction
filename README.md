@@ -7,3 +7,6 @@
 
 
 Try ``localhost/health`` to verify the service health
+
+https://zealous-stone-07dadff10.4.azurestaticapps.net
+
