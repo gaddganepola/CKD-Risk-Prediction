@@ -1,0 +1,101 @@
+Age,Gender,Distict,Local Autority,Weight,Family History of CKD,Water intake,Blood Pressure,Diabetes,Medications for diabetes/blood pressure,Alchol consumption,Tobbaco Consumption,Water resource,Usage of Artificial beverages,Antibiotic Consumption,Fertilizer,Risk Status
+45,male,anuradapura,Padaviya,70,yes,1.5,high,high,yes,yes,yes,well water,high,low,high,high
+55,female,anuradapura,Kebethigollaba,72,yes,1,high,high,yes,no,no,river,high,high,high,high
+70,male,anuradapura,Horowpathana,70,yes,1.5,high,high,yes,yes,yes,tank,high,high,high,high
+85,female,anuradapura,Kahatagasdigiliya,73,yes,1,high,high,yes,no,no,tank,high,high,high,high
+48,female,anuradapura,Galenbidunuwewa,45,yes,1.4,high,high,yes,no,no,tank,high,high,high,high
+72,female,anuradapura,Nochchiyagama,56,yes,0.8,high,high,yes,no,no,tank,high,moderate,high,high
+69,male,anuradapura,Kekirawa,85,no,0.9,low,low,yes,yes,yes,river,high,high,high,high
+63,male,anuradapura,Galnewa,78,no,1.2,high,high,yes,yes,yes,river,low,high,high,high
+71,male,anuradapura,Talawa,58,yes,1.7,high,high,yes,yes,yes,river,high,moderate,high,high
+50,male,anuradapura,Rajanganaya,55,yes,1.3,high,high,yes,yes,yes,river,high,high,high,high
+52,male,anuradapura,Anuradapura MC,49,yes,1.5,high,low,yes,no,yes,tap water,low,high,low,low
+49,male,anuradapura,Mihintale,70,yes,1.6,high,high,yes,yes,yes,well water,high,low,high,high
+54,male,anuradapura,Rambawa,71,yes,0.9,high,high,yes,yes,yes,tank,high,high,high,high
+66,female,anuradapura,Galenbidunuwewa,56,yes,0.9,high,high,yes,no,no,tank,moderate,high,high,high
+80,female,anuradapura,Talawa,48,yes,1.3,low,low,yes,no,no,tank,low,high,high,high
+45,female,polonnaruwa,Hingurakgoda,50,yes,1.4,high,high,yes,no,no,river,high,moderate,high,high
+56,female,polonnaruwa,Elahera,49,yes,0.9,high,high,yes,no,no,river,high,high,high,high
+60,male,polonnaruwa,Dimbulagala,71,yes,1.1,high,high,yes,yes,yes,river,high,high,high,high
+61,male,polonnaruwa,Welikanda,88,yes,1.2,low,low,yes,yes,yes,tank,high,high,high,high
+48,female,polonnaruwa,Lankapura,65,yes,1.4,high,high,yes,no,no,tank,moderate,high,high,high
+55,female,polonnaruwa,Medirigiriya,72,yes,1.5,high,high,yes,no,no,tank,high,high,high,high
+45,female,polonnaruwa,Medirigiriya,55,yes,1.6,high,high,yes,no,no,tank,high,high,high,high
+78,male,polonnaruwa,Medirigiriya,45,yes,1.7,high,low,yes,yes,yes,tank,high,moderate,high,high
+49,male,polonnaruwa,Medirigiriya,76,no,1.4,low,high,yes,yes,yes,well water,high,moderate,high,high
+76,female,polonnaruwa,Dimbulagala,76,no,1.4,high,high,yes,no,no,well water,low,low,high,high
+51,female,polonnaruwa,Dimbulagala,66,yes,1.6,high,high,yes,no,no,well water,low,low,high,high
+52,female,polonnaruwa,Dimbulagala,69,yes,1.5,high,high,yes,no,no,well water,high,moderate,high,high
+50,male,polonnaruwa,Dimbulagala,78,yes,1.2,low,high,yes,yes,yes,well water,high,moderate,high,high
+49,female,polonnaruwa,Welikanda,82,yes,1,high,high,yes,no,no,river,moderate,moderate,high,high
+40,female,polonnaruwa,Welikanda,65,yes,1,high,low,yes,no,no,river,low,low,high,high
+52,female,polonnaruwa,Welikanda,65,yes,1,high,high,yes,no,no,river,low,high,high,high
+56,male,polonnaruwa,Welikanda,54,no,1.1,high,high,yes,yes,yes,well water,high,high,high,high
+57,male,polonnaruwa,Welikanda,70,yes,1.6,low,high,yes,yes,yes,well water,high,high,high,high
+49,male,polonnaruwa,Elahera,71,yes,1.3,high,low,yes,no,yes,well water,moderate,high,high,high
+56,male,polonnaruwa,Elahera,66,yes,1.5,high,high,yes,yes,yes,tank,high,high,high,high
+78,male,polonnaruwa,Elahera,71,no,1.8,low,high,yes,yes,yes,tank,high,high,high,high
+77,female,polonnaruwa,Elahera,55,no,1.1,high,high,yes,no,no,tank,high,high,high,high
+50,male,ampara,Dehiattakandiya,74,no,1.1,high,high,yes,no,yes,well water,moderate,high,high,high
+48,male,ampara,Padiyatalawa,58,yes,1.2,high,high,yes,yes,yes,well water,moderate,high,high,high
+49,male,ampara,Samanthurai,76,yes,1.5,high,high,yes,yes,yes,well water,moderate,high,high,high
+61,female,ampara,Lahugala,67,yes,1.8,high,high,yes,no,no,well water,moderate,high,high,high
+60,female,ampara,Thirukkovil,75,yes,1.6,high,high,yes,no,no,well water,moderate,high,high,high
+50,female,ampara,Padiyatalawa,79,yes,1.5,high,high,yes,no,no,well water,moderate,high,high,high
+40,male,ampara,Dehiattakandiya,69,yes,1.4,high,high,yes,no,yes,river,high,high,high,high
+35,male,ampara,Dehiattakandiya,71,yes,1.3,high,high,yes,yes,yes,river,high,high,high,high
+38,male,ampara,Thirukkovil,75,yes,1.6,high,high,yes,yes,no,river,high,moderate,high,high
+41,female,ampara,Dehiattakandiya,80,yes,1.4,high,high,yes,no,no,river,moderate,moderate,high,high
+45,female,ampara,Akkaraipattu,69,no,2,high,high,yes,no,no,tap water,moderate,low,high,high
+56,female,ampara,Kalmunai,69,yes,0.9,high,high,yes,no,no,tap water,moderate,moderate,high,high
+51,male,ampara,Ampara UC,81,yes,1,high,high,yes,yes,yes,tap water,low,moderate,low,high
+50,male,monaragala,Bibile,77,yes,0.9,low,high,yes,yes,yes,well water,moderate,moderate,high,high
+48,male,monaragala,Wellawaya,78,yes,1,high,high,yes,yes,yes,well water,high,moderate,high,high
+41,male,monaragala,Monaragala,69,yes,1.1,high,high,yes,yes,yes,well water,high,high,high,high
+39,male,monaragala,Monaragala,63,yes,0.8,high,high,yes,yes,no,well water,high,high,low,high
+52,male,monaragala,Monaragala,66,no,1.3,high,high,yes,yes,no,well water,high,high,low,high
+50,male,monaragala,Monaragala,77,no,1.5,high,high,yes,yes,no,well water,high,high,low,high
+53,male,monaragala,Monaragala,72,no,1.6,high,high,yes,no,no,well water,high,high,low,high
+63,male,monaragala,Bibile,71,yes,1.8,high,high,yes,yes,yes,river,low,high,high,high
+75,male,monaragala,Bibile,65,yes,1.9,high,high,yes,yes,yes,river,high,low,high,high
+72,male,monaragala,Bibile,66,yes,1.7,high,low,yes,yes,yes,river,high,low,high,high
+74,male,monaragala,Bibile,68,yes,1.5,high,high,yes,no,yes,river,high,low,high,high
+56,male,monaragala,Wellawaya,70,yes,1.6,high,high,yes,yes,yes,well water,high,high,high,high
+50,male,colombo,Colombo MC,88,yes,1,high,high,yes,yes,yes,tap water,high,high,low,high
+55,female,colombo,Colombo MC,50,no,1.9,low,low,no,yes,no,tap water,moderate,low,no,low
+51,male,colombo,Colombo MC,51,no,2.1,low,low,no,yes,no,tap water,moderate,low,no,low
+78,male,colombo,Colombo MC,52,no,2.1,low,low,no,yes,no,tap water,moderate,low,no,low
+46,female,colombo,Colombo MC,50,no,1.9,low,low,no,yes,no,tap water,moderate,low,no,low
+69,male,colombo,Kesbewa,60,no,1.8,low,low,no,no,no,tap water,low,low,no,low
+66,male,colombo,Moratuwa,59,no,2,low,low,no,no,no,tap water,low,low,no,low
+58,female,colombo,Kaduwela,58,no,2.1,low,low,no,no,no,tap water,low,low,no,low
+55,female,colombo,Maharagama,57,no,1.8,low,low,no,no,no,tap water,low,moderate,no,low
+57,female,colombo,Boralasgamuwa,54,no,1.7,low,low,no,no,no,tap water,low,low,no,low
+63,female,colombo,Seethawaka,51,no,2.1,low,low,no,no,no,tap water,low,low,no,low
+61,male,colombo,Homagama,52,no,2.2,low,low,no,no,no,tap water,low,low,no,low
+60,male,colombo,Mt. Laviniya,56,no,2.1,high,low,no,yes,no,tap water,high,moderate,no,high
+59,male,colombo,Mt. Laviniya,51,no,2.3,low,low,no,yes,no,well water,moderate,low,no,low
+61,male,colombo,Kesbewa,50,no,2.1,low,low,no,yes,no,well water,moderate,low,no,low
+35,female,gampaha,Gampaha MC,52,no,2,low,low,no,no,no,well water,low,low,no,low
+55,female,gampaha,Gampaha MC,54,no,2,low,low,no,no,no,well water,low,low,no,low
+65,female,gampaha,Gampaha MC,56,no,2,low,low,no,no,no,well water,low,low,no,low
+78,female,gampaha,Ja-Ela,55,no,1.9,low,low,no,no,no,well water,low,low,no,low
+79,female,gampaha,Wattala,54,no,1.8,low,low,no,no,no,tap water,low,low,no,low
+52,male,gampaha,Minuwangoda,57,no,1.7,high,high,yes,no,yes,tap water,low,low,no,low
+54,male,gampaha,Divlapitiya,58,no,2.2,low,low,no,no,no,tap water,low,low,no,low
+49,male,gampaha,Maharagama,51,no,2.5,low,low,no,no,no,tap water,moderate,low,no,low
+48,male,gampaha,Biyagama,50,no,2.5,low,low,no,yes,yes,tap water,low,low,no,low
+45,male,gampaha,Kelaniya,55,no,2.3,high,low,yes,no,no,tap water,low,low,no,low
+78,female,gampaha,Dompe,55,no,2.6,low,low,no,no,no,tap water,low,low,no,low
+36,female,gampaha,Attanagalla,51,no,2.1,low,low,no,no,no,tap water,low,low,no,low
+49,female,gampaha,Negombo,70,no,1.8,low,high,yes,yes,no,tap water,low,low,no,low
+51,female,gampaha,Negombo,71,no,1.9,low,low,no,yes,no,tap water,low,low,no,low
+52,male,gampaha,Negombo,66,no,1.8,low,low,no,yes,no,tap water,low,low,no,low
+82,male,gampaha,Ja-Ela,63,no,1.7,low,low,no,no,no,tap water,low,low,no,low
+56,male,kandy,Kandy MC,60,no,1.9,low,low,no,no,no,tap water,low,low,no,low
+45,male,kandy,Kundasale,50,no,2.1,low,low,no,no,no,tap water,low,low,no,low
+36,male,kandy,Kadugannawa,49,no,2.6,low,low,no,no,no,well water,high,low,no,low
+38,female,kandy,Pasbage,72,no,2.4,low,low,no,no,no,well water,low,low,no,low
+48,female,kandy,Harispatthuwa,71,no,2.7,high,low,yes,yes,yes,tap water,high,high,high,high
+47,female,kandy,Nawalapitiya,85,no,2.3,low,low,no,no,no,well water,low,low,no,low
+51,female,kandy,Akurana,86,no,2.1,high,high,no,no,no,tap water,high,low,no,low
